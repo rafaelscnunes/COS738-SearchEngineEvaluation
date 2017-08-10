@@ -31,9 +31,9 @@ import matplotlib.pyplot as plt
 import operator
 
 # Loading all results (with and without PorterStemer) and relevants
-f_resultados = '../IMIR_VSM/resultados00.csv'
-f_resultados_ps = '../With_PorterStemer/resultados_ps00.csv'
-f_esperados = '../IMIR_VSM/esperados.csv'
+f_resultados = '../NoStemer/resultados.csv'
+f_resultados_ps = '../PorterStemer/resultados_ps.csv'
+f_esperados = '../NoStemer/esperados.csv'
 
 queries = {}  # without PorterStemer
 for line in open(f_resultados, 'r'):
