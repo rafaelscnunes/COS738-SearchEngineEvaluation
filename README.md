@@ -4,8 +4,8 @@ Projeto: Search Engine Evaluation System (SEES)
 Autor..: Rafael Nunes - rnunes@cos.ufrj.br
 Data...: 2017/08/13
 _______________________________________________________________________________
-# COS738-SearchEngineEvaluation
-Search Engine Evaluation System
+# COS738 - Search Engine Evaluation
+SEES - Search Engine Evaluation System
 _______________________________________________________________________________
 
 Detalhes de funcionamento:
